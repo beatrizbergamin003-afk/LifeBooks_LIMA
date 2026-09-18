@@ -1,0 +1,16 @@
+Elemento, Categoria, Finalidade
+<title>, Metadata, Define o título que aparecew no card do navegador
+<meta>, Metadata, Declara informações como codificação (UTF-8); descrição e palavras-chave.
+<article>, Sectioning, Agrupa um conteúdo independente e autoexplicativo
+<section>, Sectioning, Divide a página em seções genéricas com temas específicos.
+<h1>, Heading, Indica o título de nível máximo e mais importante. 
+<h2>, Heading, Subtítulo diretamente subordinado ao h1.
+<span>, Phrasing, Agrupa elementos de texto em linha para estilização visual rápida.
+<em>, Phrasing, Aplica ênfase enfatizada a uma palavra ou trecho; exibido em itálico.
+<img>, Embedded, Traz uma imagem para a página; podendo ser estática ou animada.
+<video>, Embedded, Similar ao img; renderiza um vídeo nativamente; sem precisar de outro site.
+<button>, Interactive, Gera um botão clicável em que o usuário pode interagir; fazendo ações
+<select>, Interactive, Cria uma lista com opções de escolha
+<div>, Flow, Bloco genêrico usado para estruturar layout.
+<p>, FLow, Cria um bloco de paragráfo de texto; quebrando a linha automaticamente
+<ul>, Flow, Cria uma lista de tópicos sem ordem.
